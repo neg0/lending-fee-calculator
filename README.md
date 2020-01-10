@@ -22,6 +22,13 @@ Makefile is included to ease the running commands. Please run `make` at the root
 you could use to run the tests on your host machine local or a php container.
 
 
+### Environment File
+Please create a `.env` file at the root of project from a copy `.env.dist`, this environment file contains the file
+name used to load fee structure data inside `DataStorage`. If this is not provided application uses the default value.
+
+    ~$: cp .env.dist .env
+
+
 ### Docker
 You could use Docker to run the tests, to simplify the commands, I created few aliases in `makefile` for your convenience.
 In order to run the tests inside PHP container please run the command below:
