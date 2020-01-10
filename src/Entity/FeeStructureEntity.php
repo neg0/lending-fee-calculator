@@ -6,6 +6,9 @@ namespace Lendable\Interview\Interpolation\Entity;
 
 class FeeStructureEntity
 {
+    public const FIELD_THRESHOLD = 'threshold';
+    public const FIELD_FEE = 'fee';
+
     /**
      * @var int
      */

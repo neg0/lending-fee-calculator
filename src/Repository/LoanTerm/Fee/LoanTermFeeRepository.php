@@ -37,7 +37,10 @@ class LoanTermFeeRepository implements RepositoryInterface
                 foreach ($dataSource['table'] as $row) {
                     array_push(
                         $feeStructureEntities,
-                        new FeeStructureEntity($row['threshold'], $row['fee'])
+                        new FeeStructureEntity(
+                            $row[FeeStructureEntity::FIELD_THRESHOLD],
+                            $row[FeeStructureEntity::FIELD_FEE]
+                        )
                     );
                 }
 
