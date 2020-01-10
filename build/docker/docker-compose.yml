@@ -1,0 +1,13 @@
+version: "3"
+services:
+  php:
+    image: php-lendable:latest
+    container_name: hadi-lendable-tech-test
+    build:
+      context: ../..
+      dockerfile: build/docker/php/Dockerfile
+    tty: true
+    env_file:
+      - ../../.env
+    volumes:
+      - ./../../:/var/apps/lendable

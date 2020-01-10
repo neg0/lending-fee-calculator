@@ -1,0 +1,7 @@
+bin/
+vendor/
+/tests/coverage/
+
+
+.env
+/tests/coverage.xml
