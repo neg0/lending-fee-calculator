@@ -1,0 +1,172 @@
+[
+  {
+    "term": 12,
+    "table": [
+      {
+        "threshold": 1000,
+        "fee": 50
+      },
+      {
+        "threshold": 2000,
+        "fee": 90
+      },
+      {
+        "threshold": 3000,
+        "fee": 90
+      },
+      {
+        "threshold": 4000,
+        "fee": 115
+      },
+      {
+        "threshold": 5000,
+        "fee": 100
+      },
+      {
+        "threshold": 6000,
+        "fee": 120
+      },
+      {
+        "threshold": 7000,
+        "fee": 140
+      },
+      {
+        "threshold": 8000,
+        "fee": 160
+      },
+      {
+        "threshold": 9000,
+        "fee": 180
+      },
+      {
+        "threshold": 10000,
+        "fee": 200
+      },
+      {
+        "threshold": 11000,
+        "fee": 220
+      },
+      {
+        "threshold": 12000,
+        "fee": 240
+      },
+      {
+        "threshold": 13000,
+        "fee": 260
+      },
+      {
+        "threshold": 14000,
+        "fee": 280
+      },
+      {
+        "threshold": 15000,
+        "fee": 300
+      },
+      {
+        "threshold": 16000,
+        "fee": 320
+      },
+      {
+        "threshold": 17000,
+        "fee": 340
+      },
+      {
+        "threshold": 18000,
+        "fee": 360
+      },
+      {
+        "threshold": 19000,
+        "fee": 380
+      },
+      {
+        "threshold": 20000,
+        "fee": 400
+      }
+    ]
+  },
+  {
+    "term": 24,
+    "table": [
+      {
+        "threshold": 1000,
+        "fee": 70
+      },
+      {
+        "threshold": 2000,
+        "fee": 100
+      },
+      {
+        "threshold": 3000,
+        "fee": 120
+      },
+      {
+        "threshold": 4000,
+        "fee": 160
+      },
+      {
+        "threshold": 5000,
+        "fee": 200
+      },
+      {
+        "threshold": 6000,
+        "fee": 240
+      },
+      {
+        "threshold": 7000,
+        "fee": 280
+      },
+      {
+        "threshold": 8000,
+        "fee": 320
+      },
+      {
+        "threshold": 9000,
+        "fee": 360
+      },
+      {
+        "threshold": 10000,
+        "fee": 400
+      },
+      {
+        "threshold": 11000,
+        "fee": 440
+      },
+      {
+        "threshold": 12000,
+        "fee": 480
+      },
+      {
+        "threshold": 13000,
+        "fee": 520
+      },
+      {
+        "threshold": 14000,
+        "fee": 560
+      },
+      {
+        "threshold": 15000,
+        "fee": 600
+      },
+      {
+        "threshold": 16000,
+        "fee": 640
+      },
+      {
+        "threshold": 17000,
+        "fee": 680
+      },
+      {
+        "threshold": 18000,
+        "fee": 720
+      },
+      {
+        "threshold": 19000,
+        "fee": 760
+      },
+      {
+        "threshold": 20000,
+        "fee": 800
+      }
+    ]
+  }
+]
